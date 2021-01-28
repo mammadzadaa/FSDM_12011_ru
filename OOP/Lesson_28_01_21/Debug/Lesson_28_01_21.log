@@ -1,0 +1,6 @@
+﻿  Empoyer.cpp
+C:\Qt\Projects\FSDM_12011_ru\OOP\Lesson_28_01_21\Empoyer.h(38,9): error C2664: 'Empoyer::Empoyer(char *,char *,int,Position,float,float)': cannot convert argument 1 from 'const char [4]' to 'char *'
+C:\Qt\Projects\FSDM_12011_ru\OOP\Lesson_28_01_21\Empoyer.h(38,22): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Qt\Projects\FSDM_12011_ru\OOP\Lesson_28_01_21\Empoyer.h(37,2): message : see declaration of 'Empoyer::Empoyer'
+  Source.cpp
+  Generating Code...
