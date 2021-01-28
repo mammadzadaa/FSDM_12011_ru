@@ -1,0 +1,2 @@
+C:\Qt\Projects\FSDM_12011_ru\OOP\Lesson_26_01_21_Intro\Debug\Lesson_26_01_21_Intro.exe
+C:\Qt\Projects\FSDM_12011_ru\OOP\Lesson_26_01_21_Intro\Debug\Lesson_26_01_21_Intro.pdb
