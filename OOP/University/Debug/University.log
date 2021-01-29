@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Student.cpp
+  Teacher.cpp
+C:\Qt\Projects\FSDM_12011_ru\OOP\University\Teacher.cpp(17,13): error C2062: type 'char' unexpected
+  Generating Code...
