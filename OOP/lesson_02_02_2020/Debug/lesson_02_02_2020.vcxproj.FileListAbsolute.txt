@@ -1,0 +1,2 @@
+C:\Qt\Projects\FSDM_12011_ru\OOP\lesson_02_02_2020\Debug\lesson_02_02_2020.exe
+C:\Qt\Projects\FSDM_12011_ru\OOP\lesson_02_02_2020\Debug\lesson_02_02_2020.pdb
