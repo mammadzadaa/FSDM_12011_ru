@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Qt\Projects\FSDM_12011_ru\OOP\Lesson_04_03_21\Source.cpp(164,2): warning C4091: 'static ': ignored on left of 'DB_CRUD' when no variable is declared
+  Lesson_04_03_21.vcxproj -> C:\Qt\Projects\FSDM_12011_ru\OOP\Lesson_04_03_21\Debug\Lesson_04_03_21.exe
